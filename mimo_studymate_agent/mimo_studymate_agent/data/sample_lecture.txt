@@ -1,0 +1,4 @@
+Service blueprinting is a tool used to visualise the customer journey, front-stage activities,
+back-stage activities, support processes, and physical evidence. It helps organisations identify
+service failures and design clearer standards. In service marketing, this is closely related to Gap 2,
+which refers to the gap between management perceptions of customer expectations and service quality specifications.
