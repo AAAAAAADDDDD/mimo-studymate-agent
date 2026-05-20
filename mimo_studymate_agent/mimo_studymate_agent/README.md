@@ -9,7 +9,6 @@
 5. Quiz 练习题生成
 6. Token 使用记录与成本估算
 
-本项目适合用于 Xiaomi MiMo Orbit 100T Token 计划申请，因为它有明确的 Agent 工作流、真实的学习场景、高频 token 消耗需求，以及可持续迭代方向。
 
 ## 核心技术
 
